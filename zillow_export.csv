@@ -1,0 +1,6 @@
+address,homeStatus,price,lotAreaValue,lotAreaUnit,dateSold,daysOnZillow,latitude,longitude,detailUrl
+"Lot 12 Pine Ridge Rd",RECENTLY_SOLD,40000,5.2,acres,2026-05-01,,35.010,-82.005,
+"0 Laurel Branch Rd",RECENTLY_SOLD,36000,196020,sqft,2026-02-10,,35.020,-82.010,
+"Tract B Mill Creek",FOR_SALE,79000,5,acres,,100,35.005,-81.995,
+"0 Hollow Ln",FOR_SALE,85000,6,acres,,40,34.990,-82.020,
+"Hwy 9 Parcel",PENDING,45000,5,acres,,60,35.012,-82.000,
